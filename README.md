@@ -2,7 +2,7 @@
 
 Створення карток рандомних зображень з використанням безкоштовного API стоку фотографій unsplash.com
 
-## references
+## references:
 
 [Документація](https://unsplash.com/developers)
 
